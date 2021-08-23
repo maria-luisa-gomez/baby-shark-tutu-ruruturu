@@ -130,3 +130,4 @@ dmypy.json
 
 # Ignore csv
 attacks.csv
+sharks_attacks_final.csv
