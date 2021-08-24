@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The objetive of this project it's getting some hypothesis resolved about shark attacks. For that, we've worked with a very messy and incomplete dataset [global shark attack file, available here]: https://www.kaggle.com/teajay/global-shark-attacks
+The objetive of this project it's getting some hypothesis resolved about shark attacks. For that, we've worked with a very messy and incomplete dataset [global shark attack file, available here](https://www.kaggle.com/teajay/global-shark-attacks)
 
 #### Hypothesis
 1) Hypothesis: Has the number of shark attacks increased during the years?
