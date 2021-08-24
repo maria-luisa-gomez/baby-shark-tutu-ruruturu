@@ -28,10 +28,10 @@ regex
 It seems it keeps incresing as year goes by and there's a significant difference between men and women although lately the number of cases for women has increased considerably (women in sports?)
 
 2) Hypothesis: Activity vs Fatal. Are some activities riskier than others?
-3) 
+
 Swimming seems riskier than the rest and although there are more cases of shark attacks while people are surfing, they don't end up in death
 
 
 3) Hypothesis: Are some shark species more dangerous than others?
-4) 
+
 White sharks seems to be the most dangerous species, maybe there are more number of white sharks in the world
