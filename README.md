@@ -16,10 +16,15 @@ The objetive of this project it's getting some hypothesis resolved working with 
 
 ## Libraries
 numpy
+
 pandas
+
 seaborn
+
 datetime
+
 matplotlib.pyplot
+
 regex
 
 ## Results
