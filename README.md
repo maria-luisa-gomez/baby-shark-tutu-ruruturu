@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The objetive of this project it's getting some hypothesis resolved working with a very messy and incomplete dataset (global shark attack file)
+The objetive of this project it's getting some hypothesis resolved about shark attacks. For that, we've worked with a very messy and incomplete dataset [global shark attack file, available here]: https://www.kaggle.com/teajay/global-shark-attacks
 
 #### Hypothesis
 1) Hypothesis: Has the number of shark attacks increased during the years?
@@ -11,7 +11,8 @@ The objetive of this project it's getting some hypothesis resolved working with 
 
 ## Methods
 
-- Cleaning dataset: working with nans and data aggregation 
+- Cleaning dataset: working with nans and data aggregation
+- Data visualization: choosing the most appropiate type of graph for what we want to present 
 
 
 ## Libraries
