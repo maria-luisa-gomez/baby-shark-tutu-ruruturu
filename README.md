@@ -28,6 +28,10 @@ matplotlib.pyplot
 
 regex
 
+dotenv
+
+jason
+
 ## Results
 1) Hypothesis: Has the number of shark attacks increased during the years?
 
